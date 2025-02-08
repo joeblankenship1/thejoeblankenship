@@ -33,12 +33,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r website/requirements.txt
 
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build test_website
+          jupyter-book build website
 
       # Upload the book's HTML as an artifact
       - name: Upload artifact
