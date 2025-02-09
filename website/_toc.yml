@@ -8,3 +8,5 @@ chapters:
 - file: research
 - file: about
 - file: blogs
+  sections:
+    - file: blogs/ontology.md
