@@ -11,3 +11,4 @@ chapters:
   sections:
     - file: blogs/ontology.md
     - file: blogs/census_data_p1.md
+    - file: blogs/streamlit.md
