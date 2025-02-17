@@ -1,4 +1,4 @@
-# News - Latest and Greatest
+# News
 
 Update by Joe Blankenship on February 6, 2025
 

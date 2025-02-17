@@ -1,4 +1,6 @@
-# About Me - Geographer, Data Scientist, Hacker
+# About Me
+
+## Geographer, Data Scientist, Hacker
 
 I am a co-founder and the Chief Data Officer of Certus Core, a company specializing in AI governance and data engineering solutions. I am also the founder of CGRII, an all-volunteer organization which aims to explore and define cyberspace via geographic principles.
 

@@ -1,8 +1,8 @@
-# Joe Blankenship
+# Welcome!
 
-## Hey there!
+Hello: welcome to my site!
 
-Welcome to my site! Read a blog or two and if you like what you read, reach out to me and let's talk about it.
+Read a blog or two and if you like what you read, reach out to me and let's talk about it.
 
 ## Socials
 

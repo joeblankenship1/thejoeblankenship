@@ -1,4 +1,4 @@
-# Research - Projects and Passions
+# Research
 
 ## Overview
 
