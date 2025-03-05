@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on February 22, 2025
+Update by Joe Blankenship on March 04, 2025
 
 ## What's New?
 
-Quick update! Speaking at the [Data4 Conference](https://www.data4con.com/) this coming week: talking on top-level ontologies for knowledge governance. In March I'll be speaking in Orlando to ODevs on knowledge graphs and hosting a social for the Tampa Python Group. A lot going on: hope to see you out and about!
+March is looking up! February was very busy: thanks to everyone that showed up to Data4. This month I have a Python Social at the Embarc Collective and a talk in Orlando to the ODevs group. I also have new projects coming up that are pretty exciting. Should be a great month ahead!
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
