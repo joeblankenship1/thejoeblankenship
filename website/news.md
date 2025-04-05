@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on March 04, 2025
+Update by Joe Blankenship on April 5, 2025
 
 ## What's New?
 
-March is looking up! February was very busy: thanks to everyone that showed up to Data4. This month I have a Python Social at the Embarc Collective and a talk in Orlando to the ODevs group. I also have new projects coming up that are pretty exciting. Should be a great month ahead!
+April is going to be a busy month for sure! Conferences, Meetups, and plenty of new work: should be interesting for sure.
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
