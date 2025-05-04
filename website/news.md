@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on April 5, 2025
+Update by Joe Blankenship on May 3, 2025
 
 ## What's New?
 
-April is going to be a busy month for sure! Conferences, Meetups, and plenty of new work: should be interesting for sure.
+A new month, a bunch of new things going on! I started a new job and I'm looking forward to starting a few new projects. More coming soon, but should be a busy month for sure.
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
