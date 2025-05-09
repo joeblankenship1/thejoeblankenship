@@ -9,6 +9,7 @@ chapters:
 - file: about
 - file: blogs
   sections:
+    - file: blogs/nono_knowknows.md
     - file: blogs/ontology.md
     - file: blogs/census_data_p1.md
     - file: blogs/streamlit.md
