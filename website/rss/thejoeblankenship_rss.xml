@@ -27,6 +27,14 @@ xmlns:atom="http://www.w3.org/2005/Atom"
 </item>
 
 <item>
+  <title>‘No-nos’ and ‘Know-knows’:Lessons Learned in Building Useful Knowledge Graphs</title>
+  <guid isPermaLink="true">https://thejoeblankenship.com/blogs/nono_knowknows</guid>
+  <link>https://thejoeblankenship.com/blogs/nono_knowknows</link>
+  <pubDate>Fri, 09 May 2025 17:00:00 +0500</pubDate>
+  <description>Blog on the challenges of implementing knowledge graphs as data products for multiple use cases. https://thejoeblankenship.com/blogs/nono_knowknows</description>
+</item>
+
+<item>
   <title>Defining Ontology: Relationships to Meaning</title>
   <guid isPermaLink="true">https://thejoeblankenship.com/blogs/ontology/ontology</guid>
   <link>https://thejoeblankenship.com/blogs/ontology/ontology</link>
