@@ -2,16 +2,15 @@
 
 ## Overview
 
-My current research focuses on knowledge engineering and data operations for enterprise systems. This is part of my long-term research project: developing foundational knowledge and standards for the understanding and building of spaces created by people and technology. Beginning with human geography and GIS studies, I leverage several fields of research such as computer science and engineering, electronic engineering, mathematics, philosophy, logic, and sociology. A great amount of my initial research is inspired by works on the production of space, political economy, code/space, network society, actor network theory, and digital geography. I also look to the work currently being done in artificial intelligence, ontology, data sciences, data engineering, and AI governance. I am indebted to the many researchers that have defined and forwarded these fields for us all.
+My current research focuses on the fundatmentals of good solutions engineering in an era of AI-enabled systems. This is part of my long-term research project: developing foundational knowledge and standards for the understanding and building of spaces created by people and technology. Beginning with human geography and GIS studies, I leverage several fields of research such as computer science and engineering, electronic engineering, mathematics, philosophy, logic, and sociology. A great amount of my initial research is inspired by works on the production of space, political economy, code/space, network society, actor network theory, and digital geography. I also look to the work currently being done in artificial intelligence, ontology, data sciences, data engineering, and data governance. I am indebted to the many researchers that have defined and forwarded these fields for us all.
 
-## Knowledge Engineering & Data Operations
+## Data Solutions, AI, & Gamification
 
-A significant portion of my current work is focused on the the building of data systems that leverage modeled schemata and information context for the construction of domain knowledge graphs and decision systems. My concentration is on:
+My current work is focused on taking complex, real-world challenges and building optimal solutions. My concentration is on:
 
-* Knowledge representation of disparate data collections
-* Automated reasoning systems for decision making
-* Knowledge transfer systems for training and education
-* Metadata standards for data management and governance
+* Applying data science, analytics, and operations to enable data-driven decisions
+* Development of AI-enabled solutions for rapid exploration of information
+* Use of gamification to incentivize the constructive and ethical use of engineered solutions
 
 ## Defining Cyberspace
 
