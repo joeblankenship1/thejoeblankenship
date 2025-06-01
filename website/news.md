@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on May 3, 2025
+Update by Joe Blankenship on June 1, 2025
 
 ## What's New?
 
-A new month, a bunch of new things going on! I started a new job and I'm looking forward to starting a few new projects. More coming soon, but should be a busy month for sure.
+Work, work, work! June is off to a great start. Work is picking up and new projects are coming along. I'm also looking foward to continuing work with the Tampa Bay Python and Tampa Devs groups in addition to getting back to the Tampa Bay Data Engineering group with some new content. A lot of work for sure, but the best kind.
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
