@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on June 1, 2025
+Update by Joe Blankenship on July 12, 2025
 
 ## What's New?
 
-Work, work, work! June is off to a great start. Work is picking up and new projects are coming along. I'm also looking foward to continuing work with the Tampa Bay Python and Tampa Devs groups in addition to getting back to the Tampa Bay Data Engineering group with some new content. A lot of work for sure, but the best kind.
+Well... as you can tell by the date it's already been a very busy July. Business for my new company is really taking off and I'm really enjoying working with my new customers: so many cool and interesting data challenges that also push me to find extremely practical uses of AI for their solutions... just too much fun. I'm also hoping to revive TBDEG here soon: not too many speakers coming forth, so there is a format change coming up soon! Other open-source and side projects are forthcoming, but we'll see where the cards fall as we get closer to August. Y'all have a great rest of the month!
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
