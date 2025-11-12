@@ -1,10 +1,10 @@
 # News
 
-Update by Joe Blankenship on October 14, 2025
+Update by Joe Blankenship on November 11, 2025
 
 ## What's New?
 
-Yikes! Better late than never I guess. October has been a busy month so far and I've had a keen focus on practical agentic models and data systems theory. I'll also be preparing for presentations and events in November. Y'all take care!
+Behind on the update again! This month has been pretty fun: busy, but fun. Still focusing on agentic models for practical business uses while getting back into data architecture and data governance in the coming months. I'm also eager to be working some new colleagues, so a great chance to learn some new things from talented folks. The holidays are here, so everyone have fun and be safe!
 
 As always, all of my work professionally and academically is kept as open-source as possible. To find my papers, blogs, classes, and other projects, check out my GitHub.
 
